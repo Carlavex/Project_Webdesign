@@ -64,8 +64,11 @@
     <Content Include="contact.html" />
     <Content Include="home.html" />
     <Content Include="Images\celtic.jpg" />
+    <Content Include="Images\nci.jpg" />
+    <Content Include="Images\xperia.jpg" />
     <Content Include="sale.html" />
     <Content Include="StyleSheet1.css" />
+    <Content Include="StyleSheet2.css" />
     <Content Include="tablets.html" />
     <Content Include="mobiles.html" />
     <Content Include="Web.config" />

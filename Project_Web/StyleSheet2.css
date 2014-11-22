@@ -1,0 +1,44 @@
+﻿body {
+    background-image:url("Images/xperia.jpg");
+    background-repeat:no-repeat;
+   
+}
+
+
+.headers {
+    background-color:lightgrey;
+    width:1050px;
+    height:200px;
+    color:beige;
+    font-size:30px;
+    text-align:center;
+    border-radius:5px;
+    margin-left:100px;
+    font-family:Calibri;
+    letter-spacing:2px;
+    margin-bottom:50px;
+}
+
+.divLeft {
+    background-color:grey;
+    width:300px;
+    height:600px;
+    color:lightgrey;
+    border-radius:5px;
+    margin-left:100px;
+    float:left;
+}
+
+li {
+    list-style:none;
+}
+
+.divCentral {
+    width:700px;
+    height:600px;
+    border-radius:5px;
+    background-color:#D6D6C2;
+    float:left;
+    margin-left:50px;
+   
+}
